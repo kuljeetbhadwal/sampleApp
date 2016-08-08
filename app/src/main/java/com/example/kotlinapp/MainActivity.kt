@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         title_text.setOnClickListener({ view -> conditionCheck() })
         myNumber()
+        //df
 
     }
 
